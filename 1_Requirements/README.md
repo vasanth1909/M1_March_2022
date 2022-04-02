@@ -12,7 +12,7 @@
 	This technology allows students solve complicated problems quickly and in an efficient manner. Additionally, it can reduce the problem to simpler tasks and allows the student to devote more time in understanding the problem. Secondly, they are saved from monotonous calculations and the same boring mundane procedure.
 # Defining Our System
 ## Explanation
-	It has a various types of operation so, That the user can solve the problem in quick manner and it has an few inbulit features like addition, subtraction, multiplication, division, power,  square, cube, root, squareroot, factorial, modulus, sinc, cosc, tanc, logc.
+	It has a various types of operation. So, That the user can solve the problem in quick manner and it has an few inbulit features like addition, subtraction, multiplication, division, power,  square, cube, root, squareroot, factorial, modulus, sinc, cosc, tanc, logc.
 
 # SWOT ANALYSIS
 ![SWOT Analysis](https://github.com/vasanth1909/M1_Scientific-Calculator_2022/blob/main/1_Requirements/Presentation1.jpg)
